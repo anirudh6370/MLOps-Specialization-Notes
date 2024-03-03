@@ -23,6 +23,3 @@ Course 2: Notes completed ✅
 Course 3: Notes completed ✅   
 Course 4: Notes completed ✅  
 
-___
-#### Feedback/Suggestions
-Feel free to reach out to me on LinkedIn (https://linkedin.com/in/kennethleungty) or Medium (https://kennethleungty.medium.com)
